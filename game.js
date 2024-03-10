@@ -26,8 +26,8 @@ loadSprite("mario", "Mario.png");
 loadSprite("mushroom", "Mushroom.png");
 loadSprite("surprise", "Surprise.png");
 loadSprite("unboxed", "Unboxed.png");
-loadSprite("pipe-top-left", "Pipeleft.png");
-loadSprite("pipe-top-right", "Piperight.png");
+loadSprite("pipe-top-left", "PipeLeft.png");
+loadSprite("pipe-top-right", "PipeRight.png");
 loadSprite("pipe-bottom-left", "BottomLeft.png");
 loadSprite("pipe-bottom-right", "BottomRight.png");
 
